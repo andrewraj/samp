@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-# baseURL = "http://example.org/"
+baseURL = "https://distracted-bhabha-10e5b6.netlify.com/"
 languageCode = "en-us"
 title = "WishFund hugo | Nonprofit Charity Funderising Theme"
 theme = "wishfund-hugo"
